@@ -3,7 +3,7 @@ import os
 
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASSWORD = "root"
+DB_PASSWORD = "Admin@123"
 DB_NAME = "invoice_db"
 
 def get_db_connection():
